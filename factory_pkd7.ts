@@ -1,0 +1,1 @@
+const service_pkd7 = <T>(args: T): T => { return args; };
